@@ -36,7 +36,8 @@ Player identified as an aggressive batsman who relies mostly on boundaries.
 ▶️ How to Run
 1.Clone this repo:
 git clone https://github.com/prem-1306/cricket-player-analysis.git
-cd cricket-player-analysis
+cd cricket-player-analysis or
+you can download zip file and after that extract it and run on jupyter ask chatgpt for full guide
 2.Open Jupyter Notebook:
 jupyter notebook cricketanalysis.ipynb
 3.Run all cells to generate performance analysis.
